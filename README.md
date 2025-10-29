@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Yifeui Lu**  
+# 👋 Hi, I’m **Yifei Lu**  
 > Undergrad @ Northwest Normal University, China | Plasma Physics × Scientific Computing
 
 [![GitHub](https://img.shields.io/github/followers/douxiaozhu?style=social)](https://github.com/douxiaozhu)
