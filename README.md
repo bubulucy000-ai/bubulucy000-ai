@@ -13,7 +13,7 @@ Lightning plasma dynamics · Ion-acoustic waves · MHD simulation · High-perfor
 - **Top Prize** – 2025 National College English Competition (C-class)  
 - **2nd-author paper** in *Physics of Plasmas* (APS, SCI Q3) – “Propagation Characteristics of Ion Acoustic Waves in Lightning Plasma Channel”  
 - **Gansu Provincial Top Prize** – Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) 2025  
-- **1st Prize** – National College Mathematics Competition (Gansu division)  
+- **2st Prize** – National College Mathematics Competition (Gansu division)  
 - **Software Copyright** – Independent registration, Jul 2025  
 - **University Scholarship** – First-class Comprehensive Scholarship, 2024-2025
 
