@@ -18,5 +18,5 @@ Lightning plasma dynamics · Ion-acoustic waves · MHD simulation · High-perfor
 - **University Scholarship** – First-class Comprehensive Scholarship, 2024-2025
 
 ## 📬 Contact
-📧 bubulucy000@gmail.com 
+📧 bubulucy000@gmail.com  
 🌐 https://github.com/bubulucy000-ai
