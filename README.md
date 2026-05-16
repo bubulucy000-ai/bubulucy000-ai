@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/douxiaozhu/lightning-IAW-paper)](LICENSE)
 
 ## 🔬 Research Interest
-Lightning plasma dynamics · Ion-acoustic waves · MHD simulation · High-performance computing
+Lightning plasma dynamics · High-performance computing
 
 ## 🏆 Recent Highlights
 - **Top Prize** – 2025 National English Competition for College Students (NECCS, Class C)
