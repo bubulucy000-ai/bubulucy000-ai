@@ -2,7 +2,6 @@
 > Undergrad @ Northwest Normal University, China | Plasma Physics × Scientific Computing
 
 [![GitHub](https://img.shields.io/github/followers/douxiaozhu?style=social)](https://github.com/douxiaozhu)
-[![Physics of Plasmas](https://img.shields.io/badge/PoP-Published-0969DA)](https://doi.org/10.1063/xx.xxxx)  <!-- 改成你的真实 DOI -->
 [![NECCS](https://img.shields.io/badge/NECCS%202025-Top%20Prize-red)](#)
 [![License](https://img.shields.io/github/license/douxiaozhu/lightning-IAW-paper)](LICENSE)
 
