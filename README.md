@@ -11,7 +11,7 @@ Lightning plasma dynamics · Ion-acoustic waves · MHD simulation · High-perfor
 ## 🏆 Recent Highlights
 - **Top Prize** – 2025 National English Competition for College Students (NECCS, Class C)
 - **Gansu Provincial Top Prize** – Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) 2025
-- **Honorable Mention (H奖)** – 2025 Mathematical Contest In Modeling (MCM/ICM)
+- **Honorable Mention ** – 2025 Mathematical Contest In Modeling (MCM/ICM)
 - **Second Prize** – National College Mathematics Competition (Gansu division)
 - **Software Copyright** – Independent registration, Jul 2025
 - **First-class Comprehensive Scholarship** – 2024-2025
