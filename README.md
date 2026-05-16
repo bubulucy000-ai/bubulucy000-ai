@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Yifei Lu**  
+# 👋 Hi, I’m Yifei Lu
 > Undergrad @ Northwest Normal University, China | Plasma Physics × Scientific Computing
 
 [![GitHub](https://img.shields.io/github/followers/douxiaozhu?style=social)](https://github.com/douxiaozhu)
@@ -9,11 +9,12 @@
 Lightning plasma dynamics · Ion-acoustic waves · MHD simulation · High-performance computing
 
 ## 🏆 Recent Highlights
-- **Top Prize** – 2025 National College English Competition (C-class)  
-- **Gansu Provincial Top Prize** – Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) 2025  
-- **2st Prize** – National College Mathematics Competition (Gansu division)  
-- **Software Copyright** – Independent registration, Jul 2025  
-- **University Scholarship** – First-class Comprehensive Scholarship, 2024-2025
+- **Top Prize** – 2025 National English Competition for College Students (NECCS, Class C)
+- **Gansu Provincial Top Prize** – Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) 2025
+- **Honorable Mention (H奖)** – 2025 Mathematical Contest In Modeling (MCM/ICM)
+- **Second Prize** – National College Mathematics Competition (Gansu division)
+- **Software Copyright** – Independent registration, Jul 2025
+- **First-class Comprehensive Scholarship** – 2024-2025
 
 ## 📬 Contact
 📧 bubulucy000@gmail.com  
